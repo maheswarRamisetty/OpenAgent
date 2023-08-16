@@ -1,0 +1,8 @@
+7. Push the Changes:
+To push your committed changes to the remote repository on GitHub, you would use the following command:
+
+
+git push origin your-branch-name
+Replace your-branch-name with the name of the branch you created.
+
+Please note that these commands are based on the standard Git workflow, and the exact commands and steps might vary depending on the specific repository setup and any additional tools you might be using

@@ -1,0 +1,6 @@
+Make Changes Locally:
+After creating a new branch, you can make changes to your files using your preferred code edito
+
+
+git add .
+git commit -m "Your commit message here"

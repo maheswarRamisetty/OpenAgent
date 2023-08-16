@@ -1,0 +1,5 @@
+reate a Branch:
+To create a new branch in your local Git repository, you can use the following command:
+
+git checkout -b new-branch-name
+This command creates a new branch named new-branch-name and switches you to that branch.

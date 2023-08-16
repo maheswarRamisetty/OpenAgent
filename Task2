@@ -1,0 +1,5 @@
+2. Difference Between Fork and Clone:\
+
+
+Fork: Forking a repository means creating your own copy of someone else's repository on GitHub. This copy exists on your GitHub account and you can make changes to it without affecting the original repository. You can also submit pull requests from your fork to the original repository.
+Clone: Cloning a repository means creating a local copy of a repository on your own machine. Cloning allows you to work on the project locally and make changes. You can then push these changes back to the remote repository

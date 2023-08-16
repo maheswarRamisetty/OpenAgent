@@ -1,0 +1,2 @@
+3. Understanding of Remote Origin:
+In Git, "remote" refers to the version of your repository that is hosted on a remote server, usually on platforms like GitHub. "Origin" is the default name for the remote repository you cloned from. It represents the original repository's remote address. You can fetch, pull, and push changes to and from this remote origin.
